@@ -1,0 +1,239 @@
+{
+    "success": 1,
+    "info": "请求成功",
+    "code": 1001,
+    "list": [
+        {
+            "id": 1,
+            "category_list": [
+                {
+                    "tit": "现满",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "听百",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "论水",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "带先",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "业年",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "算区",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "category_list": [
+                {
+                    "tit": "角方",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "报多",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "状正",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "性断",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "被眼",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "加类",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "category_list": [
+                {
+                    "tit": "验却",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "备儿",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "位派",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "与土",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "难果",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "省比",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "category_list": [
+                {
+                    "tit": "拉年",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "影治",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "通列",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "在议",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "物就",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "器采",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "category_list": [
+                {
+                    "tit": "事劳",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "知边",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "文专",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "人门",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "果传",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "声道",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "category_list": [
+                {
+                    "tit": "各照",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "办究",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "布数",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "正流",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "基该",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "始三",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "category_list": [
+                {
+                    "tit": "值只",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "但议",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "年山",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "真参",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "社委",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "身就",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "category_list": [
+                {
+                    "tit": "阶就",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "住习",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "治地",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "可但",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "党济",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                },
+                {
+                    "tit": "只华",
+                    "images": "http://dummyimage.com/80x100/red.png&text=category"
+                }
+            ]
+        }
+    ]
+}
